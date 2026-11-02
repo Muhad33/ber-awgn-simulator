@@ -77,10 +77,6 @@ python -m src.main --min-errors 200 --max-bits 50000000 --seed 7
 pytest
 ```
 
-## What I learned
-
-_TODO: fill this in._
-
 ## License
 
 MIT. See [LICENSE](LICENSE).
